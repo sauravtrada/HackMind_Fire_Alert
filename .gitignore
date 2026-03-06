@@ -1,0 +1,15 @@
+# Maven build
+target/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Application config
+src/main/resources/application.properties
